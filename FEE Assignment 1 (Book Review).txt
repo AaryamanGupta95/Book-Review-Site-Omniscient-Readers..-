@@ -1,0 +1,48 @@
+FEE Assignment 1 (Book Review)
+
+Header banner navigation bar.
+Footer copyright navigation bar.
+Content both text and picture what this site does and body contains visual content book covers.
+Written Content.
+
+2nd Page - 
+At least 12 books in reviews written stars too.
+
+3rd Page - 
+Form where people can add their reviews from computer.
+Genre input option.
+Review.
+Submit reset button.
+
+
+(First Name, Last name, email, book, genre, review, Submit, Reset)
+
+
+
+Rough Plan - 
+
+site name - Omniscient Readers..
+
+
+
+★
+☆
+
+
+
+
+ <font size="6"><b>
+                            <table>
+                                <div align = "center">
+                                <tr>
+                                    <td>
+                                        <img src = "Sapiens.jpg" height = "200" width = "200"><br>
+                                        ★★★★★
+                                    </td>
+                                    <td>
+                                        <img src = "1984.jpg" height = "200" width = "200"><br>
+                                        ★★★★☆
+                                    </td>
+                                </tr></div>
+                            </table>
+                        </b></font>
